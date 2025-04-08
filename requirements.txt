@@ -1,0 +1,9 @@
+transformers
+torch
+pyaudio
+vosk
+kivy
+kivymd
+spacy
+wikipedia
+accelerate
